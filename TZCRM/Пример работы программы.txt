@@ -1,0 +1,292 @@
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+8
+chto importirovat
+1work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+8
+chto importirovat
+2work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+8
+chto importirovat
+3work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+8
+chto importirovat
+4work
+Vstrecha uzhe zaplanirovana na 9/2/2024 2:21:00 PM
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+2
+vvedite nachalo sobytiya kotoroye hotite zamenit
+vvedite god
+2024
+vvedite mesyac
+9
+vvedite den
+2
+vvedite chas
+14
+vvedite minut
+20
+vvedite nachalo sobytiya
+vvedite god
+2024
+vvedite mesyac
+9
+vvedite den
+2
+vvedite chas
+14
+vvedite minut
+40
+konec
+vvedite god
+2024
+vvedite mesyac
+9
+vvedite den
+2
+vvedite chas
+15
+vvedite minut
+1
+
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+5
+9/2/2024 2:40:00 PM - 9/2/2024 3:01:00 PM - 9/2/2024 10:30:00 AM - work
+9/2/2024 3:20:00 PM - 9/2/2024 4:00:00 PM - 9/2/2024 10:30:00 AM - work
+9/2/2024 4:20:00 PM - 9/2/2024 5:00:00 PM - 9/2/2024 11:30:00 AM - work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+1
+vvedite nachalo sobytiya
+vvedite god
+2024
+vvedite mesyac
+8
+vvedite den
+2
+vvedite chas
+14
+vvedite minut
+20
+konec
+vvedite god
+2024
+vvedite mesyac
+8
+vvedite den
+2
+vvedite chas
+15
+vvedite minut
+0
+uvedomleniye
+vvedite god
+2024
+vvedite mesyac
+8
+vvedite den
+2
+vvedite chas
+14
+vvedite minut
+0
+
+Notification - 8/2/2024 2:20:00 PM - 8/2/2024 3:00:00 PM - 8/2/2024 2:00:00 PM -
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+9
+vvedite nachalo sobytiya
+vvedite god
+2024
+vvedite mesyac
+9
+vvedite den
+2
+kuda sohranit
+test
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+6
+8/2/2024 2:20:00 PM - 8/2/2024 3:00:00 PM -
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+3
+vvedite nachalo sobytiya kotoroye hotite zamenit
+vvedite god
+2024
+vvedite mesyac
+14
+vvedite novoe napominaniye
+vvedite god
+2
+vvedite mesyac
+1
+vvedite den
+3
+vvedite chas
+1
+vvedite minut
+2
+3
+nepravilniy vvod
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+3
+vvedite nachalo sobytiya kotoroye hotite zamenit
+vvedite god
+2024
+vvedite mesyac
+9
+vvedite den
+2
+vvedite chas
+14
+vvedite minut
+40
+vvedite novoe napominaniye
+vvedite god
+2024
+vvedite mesyac
+8
+vvedite den
+31
+vvedite chas
+17
+vvedite minut
+22
+
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+5
+9/2/2024 2:40:00 PM - 9/2/2024 3:01:00 PM - 8/31/2024 5:22:00 PM - work
+9/2/2024 3:20:00 PM - 9/2/2024 4:00:00 PM - 9/2/2024 10:30:00 AM - work
+9/2/2024 4:20:00 PM - 9/2/2024 5:00:00 PM - 9/2/2024 11:30:00 AM - work
+Notification - 9/2/2024 2:40:00 PM - 9/2/2024 3:01:00 PM - 8/31/2024 5:22:00 PM - work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
+5
+9/2/2024 2:40:00 PM - 9/2/2024 3:01:00 PM - 8/31/2024 5:22:00 PM - work
+9/2/2024 3:20:00 PM - 9/2/2024 4:00:00 PM - 9/2/2024 10:30:00 AM - work
+9/2/2024 4:20:00 PM - 9/2/2024 5:00:00 PM - 9/2/2024 11:30:00 AM - work
+Choose an option
+ 1 - add meeting
+ 2 - change duration
+ 3 - change notification
+ 4 - delete meeting
+ 5 - show future list
+ 6 - show past
+ 7 - export meeting
+ 8 - import meeting
+ 9 - export day to txt
